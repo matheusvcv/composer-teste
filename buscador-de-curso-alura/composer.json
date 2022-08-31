@@ -1,0 +1,11 @@
+{
+    "name": "matheusvcv/buscador-de-cursos-alura",
+    "description": "Projeto que busca cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matheus Viana"
+        }
+    ],
+    "require": {}
+}

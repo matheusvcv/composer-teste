@@ -4,7 +4,9 @@
     "type": "library",
     "authors": [
         {
-            "name": "Matheus Viana"
+            "name": "Matheus Viana",
+            "email": "matheusvcv@yahoo.com.br"
+
         }
     ],
     "require": {
